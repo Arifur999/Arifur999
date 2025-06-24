@@ -1,41 +1,56 @@
 
 <!-- Banner Image -->
-<img src="https://your-banner-image-url.com/banner.png" alt="banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Arif999/Arif999/main/myCover.png" alt="Arifur Rahman Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Arifur Rahman 👋</h1>
-<h3 align="center">💻 Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">💻 MERN Stack Developer | Full Stack JavaScript Enthusiast</h3>
+
+<p align="center">
+📍 Dhaka, Bangladesh • ✉️ arifur.rahman.we@gmail.com / arr96777@gmail.com • 📞 01612163711
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎯 I'm a passionate web developer currently focused on full-stack JavaScript technologies.  
-📚 I enjoy building interactive and user-centric web applications.  
-💡 I believe in clean code, meaningful UI, and impactful UX.
+I am a passionate and detail-oriented **MERN Stack Developer** who loves to build user-centric, responsive, and optimized web applications.  
+Currently focused on writing clean code, learning advanced backend patterns, and contributing to full-stack projects.
 
 ### 🔭 Current Activities
-- 🚀 I’m working on a Tourism Website using React + Node.js
-- 🔍 Exploring Next.js and TypeScript
-- ✍️ Contributing to Open Source Projects
-- 🎓 Learning system design and performance optimization
+
+- 🚀 Working on a Tourism Website using React, Node.js, MongoDB
+- 🔍 Exploring Next.js & TypeScript for performance-focused apps
+- 🛠️ Building RESTful APIs & Firebase-auth-based systems
+- ✍️ Writing reusable UI components in TailwindCSS
+- 🎯 Learning system architecture and CI/CD deployment
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,tailwind,bootstrap,git,firebase,vscode" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 🌍 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Arif999"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox-browser&logoColor=white" /></a>
+  <a href="mailto:arifur.rahman.we@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Arif999"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </p>
 
 ---
@@ -52,20 +67,20 @@
 
 ## 📌 Pinned Projects
 
-👉 Make sure to pin 3 repositories with proper README files and screenshots.
+Pin at least 3 repos from your profile with complete README, description, and project links.
 
+---
 
-<!--
-**Arifur999/Arifur999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✅ Example Repo Description (add this inside each pinned repo):
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tourism Booking Web App**  
+🌐 Live: [tourism-booking.vercel.app](https://tourism-booking.vercel.app)  
+🔧 Tech Stack: React, Express, MongoDB, Firebase Auth  
+📦 Main Features: Login, Dynamic Tour Booking, Role-based dashboard  
+🧩 Dependencies: React Router, Tailwind, Axios, JWT, dotenv  
+📥 How to Run:
+```bash
+git clone https://github.com/Arif999/tourism-booking.git
+cd tourism-booking
+npm install
+npm run dev
