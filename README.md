@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- Banner Image -->
 <img src="https://your-banner-image-url.com/banner.png" alt="banner" width="100%" />
 
