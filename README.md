@@ -1,6 +1,6 @@
 
 <!-- Banner Image -->
-<img src="/myCover.png" alt="Arifur Rahman Banner" width="100%" height="250px" />
+<img src="/myCover.png" alt="Arifur Rahman Banner" width="100%"  />
 
 <h1 align="center">Hi, I'm Arifur Rahman 👋</h1>
 <h3 align="center">💻 MERN Stack Developer | Full Stack JavaScript Enthusiast</h3>
