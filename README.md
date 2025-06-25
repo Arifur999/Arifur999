@@ -1,6 +1,6 @@
 
 <!-- Banner Image -->
-<img src="/myCover.png" alt="Arifur Rahman Banner" width="100%" />
+<img src="/myCover.png" alt="Arifur Rahman Banner" width="100%" height="250px" />
 
 <h1 align="center">Hi, I'm Arifur Rahman 👋</h1>
 <h3 align="center">💻 MERN Stack Developer | Full Stack JavaScript Enthusiast</h3>
@@ -47,9 +47,10 @@ Currently focused on writing clean code, learning advanced backend patterns, and
 ## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arif999&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arif999&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif999&layout=compact&theme=radical" />
+  <a href="mailto:arifur.rahman.we@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Arifur999"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </p>
 
 ---
@@ -57,29 +58,11 @@ Currently focused on writing clean code, learning advanced backend patterns, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arif999&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=Arif999&theme=github-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif999&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arifur999&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Arifur999&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifur999&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
 
-Pin at least 3 repos from your profile with complete README, description, and project links.
-
----
-
-## ✅ Example Repo Description (add this inside each pinned repo):
-
-**Tourism Booking Web App**  
-🌐 Live: [tourism-booking.vercel.app](https://tourism-booking.vercel.app)  
-🔧 Tech Stack: React, Express, MongoDB, Firebase Auth  
-📦 Main Features: Login, Dynamic Tour Booking, Role-based dashboard  
-🧩 Dependencies: React Router, Tailwind, Axios, JWT, dotenv  
-📥 How to Run:
-```bash
-git clone https://github.com/Arif999/tourism-booking.git
-cd tourism-booking
-npm install
-npm run dev
