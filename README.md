@@ -1,6 +1,6 @@
 
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/Arif999/Arif999/main/myCover.png" alt="Arifur Rahman Banner" width="100%" />
+<img src="/myCover.png" alt="Arifur Rahman Banner" width="100%" />
 
 <h1 align="center">Hi, I'm Arifur Rahman 👋</h1>
 <h3 align="center">💻 MERN Stack Developer | Full Stack JavaScript Enthusiast</h3>
