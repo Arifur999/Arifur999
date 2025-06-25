@@ -6,7 +6,7 @@
 <h3 align="center">💻 MERN Stack Developer | Full Stack JavaScript Enthusiast</h3>
 
 <p align="center">
-📍 Dhaka, Bangladesh • ✉️ arifur.rahman.we@gmail.com / arr96777@gmail.com • 📞 01612163711
+📍 Noakhali, Bangladesh • ✉️ arifur.rahman.we@gmail.com / arr96777@gmail.com • 📞 01612163711
 </p>
 
 ---
