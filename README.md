@@ -47,10 +47,9 @@ Currently focused on writing clean code, learning advanced backend patterns, and
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:arifur.rahman.we@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Arif999"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arif999&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arif999&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif999&layout=compact&theme=radical" />
 </p>
 
 ---
