@@ -48,7 +48,7 @@ Currently focused on writing clean code, learning advanced backend patterns, and
 
 <p align="center">
   <a href="mailto:arifur.rahman.we@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arifur-rahman-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Arifur999"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </p>
