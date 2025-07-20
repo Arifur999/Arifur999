@@ -58,10 +58,11 @@ Currently focused on writing clean code, learning advanced backend patterns, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arifur999&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=Arifur999&theme=github-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifur999&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arifur999&show_icons=true&theme=github_dark&count_private=true&v=1" />
+  <img src="https://streak-stats.demolab.com?user=Arifur999&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifur999&layout=compact&theme=github_dark&v=1" />
 </p>
+
 
 ---
 
