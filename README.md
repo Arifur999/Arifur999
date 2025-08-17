@@ -57,13 +57,35 @@ Currently focused on writing clean code, learning advanced backend patterns, and
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arifur999&show_icons=true&theme=github_dark&count_private=true&v=1" />
-  <img src="https://streak-stats.demolab.com?user=Arifur999&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifur999&layout=compact&theme=github_dark&v=1" />
-</p>
+<div align="center">
 
+  <!-- Bottom - Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Arifur999&theme=dark&row=1&column=6&margin-w=15" alt="Trophies" />
+  
+ <!-- Top Row -->
+  <table>
+    <tr>
+      <td>
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arifur999&show_icons=true" alt="Stats">
+      </td>
+      <td>
+        <img height="165" src="https://streak-stats.demolab.com/?user=Arifur999" alt="Streak">
+      </td>
+    </tr>
+  </table>
 
----
-
+  <!-- Middle Row - Summary Cards -->
+  <table>
+    <tr>
+      <!-- Profile Details -->
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arifur999" alt="Profile Details" />
+      </td>
+      <!-- Top Languages -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifur999" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
