@@ -88,4 +88,9 @@ Currently focused on writing clean code, learning advanced backend patterns, and
     </tr>
   </table>
 </div>
-![snake gif](https://github.com/Arifur999/Arifur999/blob/output/github-snake-dark.svg)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arifur999/Arifur999/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
