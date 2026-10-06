@@ -12,7 +12,7 @@
 📍 Noakhali, Bangladesh • ✉️ arifur.rahman.we@gmail.com / arr96777@gmail.com • 📞 01612163711
 </p>
 
----
+<!--
 
 ## 👨‍💻 About Me
 
@@ -27,7 +27,7 @@ Currently focused on writing clean code, learning advanced backend patterns, and
 - ✍️ Writing reusable UI components in TailwindCSS
 - 🎯 Learning system architecture and CI/CD deployment
 
----
+-->
 
 ## 🛠️ Skills & Technologies
 
