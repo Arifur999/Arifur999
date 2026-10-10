@@ -6,7 +6,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="100%">
 
 <h1 align="center">Hi, I'm Arifur Rahman 👋</h1>
-<h3 align="center">💻 MERN Stack Developer | Full Stack JavaScript Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
 📍 Noakhali, Bangladesh • ✉️ arifur.rahman.we@gmail.com / arr96777@gmail.com • 📞 01612163711
